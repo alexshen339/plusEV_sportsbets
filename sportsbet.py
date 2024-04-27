@@ -12,7 +12,7 @@ import requests
 
 # An api key is emailed to you when you sign up to a plan
 # Get a free API key at https://api.the-odds-api.com/
-API_KEY = "a448ed56b6713c585103d464b0cafbd9"
+API_KEY = ""
 
 # Sport key
 # Find sport keys from the /sports endpoint below, or from https://the-odds-api.com/sports-odds-data/sports-apis.html
